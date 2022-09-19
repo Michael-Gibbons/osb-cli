@@ -14,6 +14,10 @@
     "Shopify",
     "App"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Michael-Gibbons/osb-cli"
+  },
   "author": "Michael Gibbons",
   "license": "MIT",
   "dependencies": {
